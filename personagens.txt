@@ -1,0 +1,5 @@
+vida: 10
+
+nome: guri aleatório
+
+nível: 2
